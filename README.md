@@ -5,3 +5,5 @@
 <?php include 'checking.php'; ?>
 ```
 
+## Effect: Make color, Make color and Make color 🐧🐧🐧
+## Usage: upload file checking.php and embed the checking file at the beginning of the first line of the index file
